@@ -1,0 +1,3 @@
+module SearchFor
+  VERSION = "0.0.1"
+end
